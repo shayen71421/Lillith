@@ -1,4 +1,4 @@
-# Python quiz game with user inputs
+#quiz game
 
 questions = []
 options = []
