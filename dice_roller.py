@@ -1,5 +1,5 @@
 # dice roller
-#● ┌ ─ ┐ │ └ ┘ characters fro dice
+#● ┌ ─ ┐ │ └ ┘ characters for dice
 import random
 
 dice_art = {
